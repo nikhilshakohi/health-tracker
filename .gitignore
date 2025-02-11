@@ -1,0 +1,14 @@
+# Ignore build output
+target/
+*.log
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Operating system specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
